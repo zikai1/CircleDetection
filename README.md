@@ -5,11 +5,12 @@
 This is the code for circle detection in images using inscribed triangles. Circle detection is a critical issue in pattern recognition and image analysis. Conventional methods such as Hough transform, suffer from cluttered backgrounds and concentric circles. We present a novel method for fast circle detection using inscribed triangles. The proposed algorithm is more robust against cluttered backgrounds, noise, and occlusion.
 
 
-![input](https://github.com/zikai1/CircleDetection/blob/main/input.png)
+
 <table>
     <tr>
-        <td ><center><img src="https://github.com/zikai1/CircleDetection/blob/main/input.png"> </center></td>
-        <td ><center><img src="https://github.com/zikai1/CircleDetection/blob/main/det.png"> </center></td>
+         <td ><center><img src="https://github.com/zikai1/CircleDetection/blob/master/input.png"> </center></td>
+        <td ><center><img src="https://github.com/zikai1/CircleDetection/blob/master/det.png"> </center></td>
+        <td ><center><img src="https://github.com/zikai1/CircleDetection/blob/master/det2.png"> </center></td>
     </tr>
 </table>
 
