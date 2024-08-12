@@ -1,6 +1,7 @@
 # An occlusion-resistant circle detector using inscribed triangles
 
 
+
 ## Introduction
 This is the code for circle detection in images using inscribed triangles. Circle detection is a critical issue in pattern recognition and image analysis. Conventional methods such as Hough transform, suffer from cluttered backgrounds and concentric circles. We present a novel method for fast circle detection using inscribed triangles. The proposed algorithm is more robust against cluttered backgrounds, noise, and occlusion.
 
@@ -14,6 +15,7 @@ This is the code for circle detection in images using inscribed triangles. Circl
     </tr>
 </table>
 
+**Please give a star and cite if you find this repo useful.**
 
 ## Instructions
 ### 1. Requirements
