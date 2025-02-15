@@ -1,4 +1,4 @@
-# An occlusion-resistant circle detector using inscribed triangles
+# An occlusion-resistant circle detector using inscribed triangles (Pattern Recognition 2021)
 
 
 
